@@ -1,7 +1,7 @@
 ### About Me
 *************
 • [He/Him] \
-• Hello, I am Kevin Siddhpura 20 y/o from India a Prosperous Country in South Asia. \
+• Hello, I am Kevin Siddhpura 21 y/o from India a Prosperous Country in South Asia. \
 • I love to develop various new things and get a unquie satisfaction after watching the results.\
 • And ya I am not much active on various platforms including Github for some time. \
 • Reach me via [**Discord**](https://discord.kwin.in)
