@@ -105,6 +105,6 @@
 
 ```
   ─────────────────────────────────────────────
-  Kevin Siddhpura — always building, always on.
+  Kevin Siddhpura, always building, always on.
   ─────────────────────────────────────────────
 ```
